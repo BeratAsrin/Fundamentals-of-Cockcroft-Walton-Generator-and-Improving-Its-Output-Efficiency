@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Cockcroft%E2%80%93Walton_generator ****
+https://www.allaboutcircuits.com/textbook/semiconductors/chpt-3/voltage-multipliers/   ****
+https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/cockcroft-walton-generator/ ****
+https://www.electronics-tutorials.ws/blog/voltage-multiplier-circuit.html ****
+https://en.wikipedia.org/wiki/Voltage_multiplier ****
+https://www.electronics-tutorials.ws/rc/rc_1.html ****
+https://www.vishay.com/docs/85508/bat54.pdf ****
+https://www.vishay.com/docs/81857/1n4148.pdf ****
